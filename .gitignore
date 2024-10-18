@@ -1,0 +1,11 @@
+*.pidb
+*.metatouch .gitignore
+*.temp
+*.obj
+.vs/
+Library/
+Temp/
+Build/
+Builds/
+Logs/
+UserSettings/
